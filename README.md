@@ -36,6 +36,31 @@ En caso de existir una compra no completada, devolver el arreglo con los ids de 
 Una vez finalizada la compra, el carrito asociado al usuario que compró deberá contener sólo los productos que no pudieron comprarse. Es decir, se filtran los que sí se compraron y se quedan aquellos que no tenían disponibilidad.
 
 
+
+
+## 🚀 Instrucciones para Ejecutar el Proyecto
+
+### 1. Clona el Repositorio  
+### 2. Instala las Dependencias  
+Una vez dentro de la carpeta del proyecto, instala todas las dependencias necesarias con:  
+
+npm install  
+### 3. Configura las Variables de Entorno  
+Crea un archivo .env en la raíz del proyecto y agrega las variables suministradas en la entrega.  
+### 4. Ejecuta el proyecto  
+Una vez que hayas configurado las variables de entorno, puedes iniciar el servidor con:  
+  
+npm start  
+
+
+
+
+# DESDE YA, MUCHISIMAS GRACIAS!
+### Y como dijo mi ex: Hasta acá llegamos.
+
+Gracias por tanto. Perdón por tan poco.        
+
+
   
 
   
