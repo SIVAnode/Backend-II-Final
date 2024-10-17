@@ -1,0 +1,10 @@
+MONGO_URL= "mongodb+srv://Simonetta:llujif5WmIZwB6xx@codercito.szslbfx.mongodb.net/trabajo_final?retryWrites=true&w=majority&appName=Codercito"
+PERSISTENSE = "MONGO"
+
+SESSION_SECRET=claveSecretaDelPatinajeArtistico
+SECRET_PASSPORT=claveSecretaJWTDelPatinajeArtistico
+JWT_SECRET='mimamamemimamucho'
+MAILER_HOST='smtp.gmail.com'
+MAILER_PORT=587
+MAILER_USERNAME=
+MAILER_PASSWORD=
